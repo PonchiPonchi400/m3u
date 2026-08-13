@@ -44,3 +44,6 @@ https://cdn.whiplash.cc/whiplash-atlas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo "https://upload.wikimedia.org/wikipedia/commons/7/77/Roar_%282025%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Roar
+https://fast-channels.sinclairstoryline.com/TBD/index_4.m3u8
