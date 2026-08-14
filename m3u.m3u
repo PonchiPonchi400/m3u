@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", Ent Channel
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/8/89/WhiplashLogo.svg", Whiplash
+#EXTINF:-1 tvg-logo="https://www.whiplash.cc/assets/img/channels/whiplash.png", Whiplash
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/thumb/f/f6/Window_TV_November_2025_Logo.png/600px-Window_TV_November_2025_Logo.png", Window TV
+#EXTINF:-1 tvg-logo="https://www.whiplash.cc/assets/img/channels/windowtv.png", Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2006073813839065089/TYve0uSb_400x400.jpg", Eel Channnel
 https://mci01.nive.live/28/index.m3u8
 
-#EXTINF:-1, Whiplash II
+#EXTINF:-1 tvg-logo="https://www.whiplash.cc/assets/img/channels/whiplash2.png", Whiplash II
 https://cdn.whiplash.cc/whiplash-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
@@ -39,10 +39,10 @@ https://mci01.nive.live/29/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/d/df/Placid_Logo_2024.svg", Placid
 https://toy.vcdn.fyi/placid/index.m3u8
 
-#EXTINF:-1, Atlas
+#EXTINF:-1 tvg-logo="https://www.whiplash.cc/assets/img/channels/atlas.png", Atlas
 https://cdn.whiplash.cc/whiplash-atlas/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Whiplash Cinema
+#EXTINF:-1 tvg-logo="https://www.whiplash.cc/assets/img/channels/whiplashcinema.png", Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo "https://images.seeklogo.com/logo-png/61/2/roar-tv-network-logo-png_seeklogo-617697.png", Roar
