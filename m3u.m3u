@@ -48,30 +48,3 @@ https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/2/roar-tv-network-logo-png_seeklogo-617697.png", Roar
 https://fast-channels.sinclairstoryline.com/TBD/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://vantagetv.eu/vantage_music.png", Vantage Music
-https://cdn-non-eu.lulzy.eu/vmusic_720/main_stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://vantagetv.eu/vantage_dance.png", Vantage Dance
-https://cdn-non-eu.lulzy.eu/vdance_720/main_stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://vantagetv.eu/vantage_rock.png", Vantage Rock
-https://cdn-non-eu.lulzy.eu/vrock_720/main_stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://vantagetv.eu/vantage_classic.png", Vantage Classic
-https://cdn-non-eu.lulzy.eu/vclassic_720/main_stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png", Totalmusic
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png", Totalmusic 80s
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png", Totalmusic 00s
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png", Totalmusic Concerts
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-dance.png", Totalmusic Dance
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
