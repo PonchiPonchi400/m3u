@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.seeklogo.com/logo-png/61/2/roar-tv-network-logo-png_seeklogo-617697.png", Roar
-https://fast-channels.sinclairstoryline.com/TBD/index_4.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
+https://toy.vcdn.fyi/deflect/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.whiplash.cc/assets/img/channels/whiplash.png", Whiplash
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
@@ -10,7 +10,7 @@ https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
 https://cdn.whiplash.cc/whiplash-windowtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/2006073813839065089/TYve0uSb_400x400.jpg", Eel Channnel
-https://mci01.nive.live/28/index.m3u8
+https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.whiplash.cc/assets/img/channels/whiplash2.png", Whiplash II
 https://cdn.whiplash.cc/whiplash-2/tracks-v1a1/mono.m3u8
@@ -42,11 +42,23 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/trac
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-dance.png", Totalmusic Dance
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_music.png", Vantage Music
+https://hls.lulzy.eu/vmusic_720/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_dance.png", Vantage Dance
+https://hls.lulzy.eu/vdance_720/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_rock.png", Vantage Rock
+https://hls.lulzy.eu/vrock_720/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_classic.png", Vantage Classic
+https://hls.lulzy.eu/vclassic_720/index.m3u8
+
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/9/9b/Biwi.png", Biwi
 https://cdn.whiplash.cc/whiplash-biwi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Toon_Disney_Channel_2004.svg/revision/latest/scale-to-width-down/200?cb=20240519151848", Toon Disney
-https://mci01.nive.live/29/index.m3u8
+https://toy.vcdn.fyi/fizz/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/d/df/Placid_Logo_2024.svg", Placid
 https://toy.vcdn.fyi/placid/index.m3u8
