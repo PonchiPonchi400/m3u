@@ -15,6 +15,9 @@ https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.whiplash.cc/assets/img/channels/whiplash2.png", Whiplash II
 https://cdn.whiplash.cc/whiplash-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85", Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
 
