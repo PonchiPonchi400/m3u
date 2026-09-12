@@ -60,7 +60,7 @@ https://hls.lulzy.eu/vclassic_720/index.m3u8
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/9/9b/Biwi.png", Biwi
 https://cdn.whiplash.cc/whiplash-biwi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Toon_Disney_Channel_2004.svg/revision/latest/scale-to-width-down/200?cb=20240519151848", Toon Disney
+#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
 https://toy.vcdn.fyi/fizz/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/d/df/Placid_Logo_2024.svg", Placid
