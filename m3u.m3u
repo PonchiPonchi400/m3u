@@ -63,6 +63,9 @@ https://hls.lulzy.eu/vrock_720/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_classic.png", Vantage Classic
 https://hls.lulzy.eu/vclassic_720/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdn.bongo.stream/channel-assets/collective/icon.png", Collective
+https://toy.vcdn.fyi/whiplash-collective/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png", CN Extras
 https://toy.vcdn.fyi/tertiary-toonextra/index.m3u8
 
