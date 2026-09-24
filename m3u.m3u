@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://whiplash.cc/scheds/schedule.xml"
-url-tvg="https://vantagetv.eu/epg.xml"
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH.png", Whiplash
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
