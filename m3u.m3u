@@ -78,6 +78,12 @@ https://animax.live/hls/1/stream.m3u8?cachebust=f79852
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/b/b0/FlashBAKlogoGREENpink.svg", Flashbak
 https://toy.vcdn.fyi/flashBAK/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", 2x2
+https://toy.vcdn.fyi/2x2/tracks-v1/mono.m3u8
+
+#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
+https://toy.vcdn.fyi/placid/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Curiosity" tvg-logo="https://whiplash.cc/pluslogo/ATLAS.png", Atlas
 https://cdn.whiplash.cc/whiplash-atlas/tracks-v1a1/mono.m3u8
 
