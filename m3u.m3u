@@ -9,13 +9,13 @@ https://cdn.whiplash.cc/whiplash-windowtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/9/90/EEL_Channel_2025.png/102px-EEL_Channel_2025.png", Eel Channnel
 https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH2.png", Whiplash II
+#EXTINF:-1 group-title="Entertainment" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH2.png", Whiplash II
 https://cdn.whiplash.cc/whiplash-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85", Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/8/8d/Z%C3%A9n%21th_2025.png/115px-Z%C3%A9n%21th_2025.png", Zenith TV
+#EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/8/8d/Z%C3%A9n%21th_2025.png/115px-Z%C3%A9n%21th_2025.png", Zenith TV
 https://live.azenagroup.com/zenith/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
@@ -63,7 +63,7 @@ http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://cdn.bongo.stream/channel-assets/collective/icon.png", Collective
 https://toy.vcdn.fyi/whiplash-collective/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://whiplash.cc/pluslogo/BIWI.png", Biwi
+#EXTINF:-1 group-title="Animation" tvg-id="C6.1.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/BIWI.png", Biwi
 https://cdn.whiplash.cc/whiplash-biwi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Animation" tvg-id="fizz" tvg-name="Fizz" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
@@ -84,7 +84,7 @@ https://toy.vcdn.fyi/2x2/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
 https://toy.vcdn.fyi/placid/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Curiosity" tvg-logo="https://whiplash.cc/pluslogo/ATLAS.png", Atlas
+#EXTINF:-1 group-title="Curiosity"  tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/ATLAS.png", Atlas
 https://cdn.whiplash.cc/whiplash-atlas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://whiplash.cc/pluslogo/WHIPLASHCINEMA.png", Whiplash Cinema
