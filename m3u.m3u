@@ -6,7 +6,7 @@ https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WINDOWTV.png", Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/9/90/EEL_Channel_2025.png/102px-EEL_Channel_2025.png", Eel Channnel
+#EXTINF:-1 group-title="Entertainment" tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/9/90/EEL_Channel_2025.png/102px-EEL_Channel_2025.png", Eel Channnel
 https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH2.png", Whiplash II
@@ -66,10 +66,10 @@ https://toy.vcdn.fyi/whiplash-collective/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Animation" tvg-logo="https://whiplash.cc/pluslogo/BIWI.png", Biwi
 https://cdn.whiplash.cc/whiplash-biwi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
+#EXTINF:-1 group-title="Animation" tvg-id="fizz" tvg-name="Fizz" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
 https://toy.vcdn.fyi/fizz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/4/4d/TDS.png", Toon Disney Shuffle
+#EXTINF:-1 group-title="Animation" tvg-id="toon_d" tvg-name="Toon Diggity" tvg-logo="https://static.wikitide.net/indietvwiki/4/4d/TDS.png", Toon Disney Shuffle
 https://toy.vcdn.fyi/tdshuffle/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg", Animax NA
