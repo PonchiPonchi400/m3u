@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH.png", Whiplash
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WINDOWTV.png", Window TV
+#EXTINF:-1 group-title="Entertainment" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/WINDOWTV.png", Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/9/90/EEL_Channel_2025.png/102px-EEL_Channel_2025.png", Eel Channnel
