@@ -21,6 +21,9 @@ https://live.azenagroup.com/zenith/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
 https://toy.vcdn.fyi/dijit/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
+https://toy.vcdn.fyi/deflect/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
 
