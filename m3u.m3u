@@ -18,6 +18,9 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/8/8d/Z%C3%A9n%21th_2025.png/115px-Z%C3%A9n%21th_2025.png", Zenith TV
 https://live.azenagroup.com/zenith/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
+https://toy.vcdn.fyi/dijit/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
 
