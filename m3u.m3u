@@ -15,10 +15,10 @@ https://cdn.whiplash.cc/whiplash-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85", Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Orbit" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
+#EXTINF:-1 group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
 https://toy.vcdn.fyi/dijit/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Others" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
+#EXTINF:-1 group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
 https://toy.vcdn.fyi/deflect/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
@@ -102,4 +102,20 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/
 #EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", Ent Family
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png", Ent Movies
+https://toy.vcdn.fyi/2x2/tracks-v1/mono.m3u8
 
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png", Ent Extreme
+https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png", Ent Comedy
+http://88.212.15.19/live/mb_dance/index.m3u8
+
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png", Ent Drama
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png", Ent Classic
+https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png", Ent Life
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
