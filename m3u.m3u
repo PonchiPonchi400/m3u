@@ -1,108 +1,105 @@
 #EXTM3U url-tvg="https://whiplash.cc/scheds/schedule.xml"
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH.png", Whiplash
+#EXTINF:-1 group-title="Whiplash" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH.png", Whiplash
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/WINDOWTV.png", Window TV
+#EXTINF:-1 group-title="Whiplash" tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/WINDOWTV.png", Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/9/90/EEL_Channel_2025.png/102px-EEL_Channel_2025.png", Eel Channnel
+#EXTINF:-1 group-title="Eel" tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/9/90/EEL_Channel_2025.png/102px-EEL_Channel_2025.png", Eel Channnel
 https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH2.png", Whiplash II
+#EXTINF:-1 group-title="Whiplash" tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH2.png", Whiplash II
 https://cdn.whiplash.cc/whiplash-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85", Game Show Network
+#EXTINF:-1 group-title="Others" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85", Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/tbsvisionwiki/thumb/8/8d/Z%C3%A9n%21th_2025.png/115px-Z%C3%A9n%21th_2025.png", Zenith TV
-https://live.azenagroup.com/zenith/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
+#EXTINF:-1 group-title="Orbit" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
 https://toy.vcdn.fyi/dijit/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
+#EXTINF:-1 group-title="Others" tvg-id="zenith" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
 https://toy.vcdn.fyi/deflect/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
+#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png", Musicbox Hits
+#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png", Musicbox Hits
 http://88.212.15.19/live/mb_hits/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png", Musicbox Dance
+#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png", Musicbox Dance
 http://88.212.15.19/live/mb_dance/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png", Musicbox Sexy
+#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png", Musicbox Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png", Totalmusic
+#EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png", Totalmusic
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png", Totalmusic 80s
+#EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png", Totalmusic 80s
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png", Totalmusic 00s
+#EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png", Totalmusic 00s
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png", Totalmusic Concerts
+#EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png", Totalmusic Concerts
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-dance.png", Totalmusic Dance
+#EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-dance.png", Totalmusic Dance
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_music.png", Vantage Music
+#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_music.png", Vantage Music
 https://hls.lulzy.eu/vmusic_720/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_dance.png", Vantage Dance
+#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_dance.png", Vantage Dance
 https://hls.lulzy.eu/vdance_720/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_rock.png", Vantage Rock
+#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_rock.png", Vantage Rock
 https://hls.lulzy.eu/vrock_720/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://vantagetv.eu/vantage_classic.png", Vantage Classic
+#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_classic.png", Vantage Classic
 https://hls.lulzy.eu/vclassic_720/index.m3u8
 
-  #EXTINF:-1 group-title="Music" tvg-logo="https://lanet.tv/static/tv/logo/9242.svg", Black
+  #EXTINF:-1 group-title="Others" tvg-logo="https://lanet.tv/static/tv/logo/9242.svg", Black
 http://stream.mcquack.net/283/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://cdn.bongo.stream/channel-assets/collective/icon.png", Collective
+#EXTINF:-1 group-title="Whiplash" tvg-logo="https://cdn.bongo.stream/channel-assets/collective/icon.png", Collective
 https://toy.vcdn.fyi/whiplash-collective/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-id="C6.1.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/BIWI.png", Biwi
+#EXTINF:-1 group-title="Whiplash" tvg-id="C6.1.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/BIWI.png", Biwi
 https://cdn.whiplash.cc/whiplash-biwi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-id="fizz" tvg-name="Fizz" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
+#EXTINF:-1 group-title="Eel" tvg-id="fizz" tvg-name="Fizz" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
 https://toy.vcdn.fyi/fizz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-id="toon_d" tvg-name="Toon Diggity" tvg-logo="https://static.wikitide.net/indietvwiki/4/4d/TDS.png", Toon Disney Shuffle
+#EXTINF:-1 group-title="Eel" tvg-id="toon_d" tvg-name="Toon Diggity" tvg-logo="https://static.wikitide.net/indietvwiki/4/4d/TDS.png", Toon Disney Shuffle
 https://toy.vcdn.fyi/tdshuffle/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg", Animax NA
+#EXTINF:-1 group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg", Animax NA
 https://animax.live/hls/1/stream.m3u8?cachebust=f79852
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/b/b0/FlashBAKlogoGREENpink.svg", Flashbak
+#EXTINF:-1 group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/b/b0/FlashBAKlogoGREENpink.svg", Flashbak
 https://toy.vcdn.fyi/flashBAK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", 2x2
+#EXTINF:-1 group-title="Orbit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", 2x2
 https://toy.vcdn.fyi/2x2/tracks-v1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
+#EXTINF:-1 group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
 https://toy.vcdn.fyi/placid/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png", CN Extras
+#EXTINF:-1 group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png", CN Extras
 https://toy.vcdn.fyi/tertiary-toonextra/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Curiosity"  tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/ATLAS.png", Atlas
+#EXTINF:-1 group-title="Whiplash"  tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/ATLAS.png", Atlas
 https://cdn.whiplash.cc/whiplash-atlas/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://whiplash.cc/pluslogo/WHIPLASHCINEMA.png", Whiplash Cinema
+#EXTINF:-1 group-title="Whiplash"tvg-logo="https://whiplash.cc/pluslogo/WHIPLASHCINEMA.png", Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", Ent Channel
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", Ent Channel
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", Ent Family
+#EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", Ent Family
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 
