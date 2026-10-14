@@ -57,18 +57,6 @@ https://toy.vcdn.fyi/2x2/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
 https://toy.vcdn.fyi/placid/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png", Musicbox Classic
-http://88.212.15.19/live/mb_classic/index.m3u8
-
-#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png", Musicbox Hits
-http://88.212.15.19/live/mb_hits/index.m3u8
-
-#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png", Musicbox Dance
-http://88.212.15.19/live/mb_dance/index.m3u8
-
-#EXTINF:-1 group-title="Musicbox" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png", Musicbox Sexy
-http://88.212.15.19/live/mb_sexy/index.m3u8
-
 #EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png", Totalmusic
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
@@ -119,9 +107,3 @@ https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png", Ent Life
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Energeek" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png", Energeek
-https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
-
-#EXTINF:-1 group-title="Energeek" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-new.png", Energeek Fan
-https://cl-2.backend.energeek.cl/bkp/egfanweb/tracks-v1a1/mono.ts.m3u8?token=NeoTVCL
