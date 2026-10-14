@@ -97,7 +97,7 @@ https://toy.vcdn.fyi/2x2/tracks-v1/mono.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png", Ent Comedy
-http://88.212.15.19/live/mb_dance/index.m3u8
+https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png", Ent Drama
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
