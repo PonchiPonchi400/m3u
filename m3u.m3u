@@ -15,7 +15,7 @@ https://toy.vcdn.fyi/whiplash-collective/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Whiplash" tvg-id="C6.1.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/BIWI.png", Biwi
 https://cdn.whiplash.cc/whiplash-biwi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Whiplash"  tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/pluslogo/ATLAS.png", Atlas
+#EXTINF:-1 group-title="Whiplash"  tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/svg/atlas.svg", Atlas
 https://cdn.whiplash.cc/whiplash-atlas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Whiplash"tvg-logo="https://whiplash.cc/pluslogo/WHIPLASHCINEMA.png", Whiplash Cinema
