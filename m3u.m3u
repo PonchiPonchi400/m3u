@@ -66,18 +66,6 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1
 #EXTINF:-1 group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png", Totalmusic 00s
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_music.png", Vantage Music
-https://hls.lulzy.eu/vmusic_720/index.m3u8
-
-#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_dance.png", Vantage Dance
-https://hls.lulzy.eu/vdance_720/index.m3u8
-
-#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_rock.png", Vantage Rock
-https://hls.lulzy.eu/vrock_720/index.m3u8
-
-#EXTINF:-1 group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_classic.png", Vantage Classic
-https://hls.lulzy.eu/vclassic_720/index.m3u8
-
 #EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", Ent Channel
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
