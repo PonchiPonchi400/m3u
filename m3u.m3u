@@ -54,6 +54,9 @@ https://watch.mistlive.tv/hls/magicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="ZZHD" tvg-logo="https://api.mistweather.com/api/v1.5/image/9d895fd6-b38f-4f9e-bfdd-675dc845b05d?width=192&height=192&fit=inside" group-title="Others",SCUZZ
 https://watch.mistlive.tv/hls/scuzz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="ZZHD" tvg-logo="https://media.discordapp.net/attachments/1562924132805644398/1563224869104001174/Untitled18_20261003220258.png?ex=6ae2201c&is=6ae0ce9c&hm=1b826b9e4646cce9dbaeaceba61a5756fde615177f29e3448c56ca38616bdf76&=&format=webp&quality=lossless&width=1536&height=948" group-title="Others",Acai
+https://watch.mistlive.tv/hls/acai/0_1/index.m3u8?tkn=1637301836
+
 #EXTINF:-1 group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
 https://toy.vcdn.fyi/dijit/tracks-v1a1/mono.m3u8
 
