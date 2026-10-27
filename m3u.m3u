@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://whiplash.cc/scheds/schedule.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://api.mistlive.tv/api/xmltv.xml, https://whiplash.cc/epg/eel.xml, https://whiplash.cc/scheds/schedule.xml, https://bongo.stream/api/xmltv.xml" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://api.mistlive.tv/api/xmltv.xml, https://whiplash.cc/epg/eel.xml, https://whiplash.cc/scheds/schedule.xml, https://bongo.stream/api/xmltv.xml"
 
 #EXTINF:-1 group-title="Whiplash" tvg-logo="https://whiplash.cc/pluslogo/WHIPLASH.png", Whiplash
 https://cdn.whiplash.cc/whiplash/tracks-v1a1/mono.m3u8
@@ -89,3 +89,62 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1
 
 #EXTINF:-1 group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png", Ent Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="BLTZ" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/3/3e/Blitzlogo2025.png/799px-Blitzlogo2025.png" group-title="Mist Live",Blitz
+https://watch.mistlive.tv/hls/blitz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="It’s all coming back to you" tvg-name="Boom Reborn" tvg-logo="https://cdn.bongo.stream/channel-assets/boomreborn/icon.png",Boomerang Reborn
+https://toy.vcdn.fyi/boomreborn/index.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CRNK" tvg-logo="https://api.mistweather.com/api/v1.5/image/7fd2878c-40bd-4f06-9e45-36d83ebdc7a9?width=192&height=192&fit=inside" group-title="Mist Live",Crank
+https://watch.mistlive.tv/hls/crank/playlist.m3u8
+
+#EXTINF:-1 tvg-id="crossrift" tvg-name="CrossRift" tvg-logo="https://cdn.bongo.stream/channel-assets/crossrift/icon.png",CrossRift
+https://toy.vcdn.fyi/crossrift/index.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DLTA" tvg-logo="https://api.mistweather.com/api/v1.5/image/5f544f3c-0d8f-4fa1-8ecd-a1748b044e98?width=192&height=192&fit=inside" group-title="Mist Live",DELTA
+https://watch.mistlive.tv/hls/delta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DMSN" tvg-logo="https://api.mistweather.com/api/v1.5/image/77b25ed7-ba8d-4bba-93f4-f973de1069da?width=192&height=192&fit=inside" group-title="Mist Live",Dimensions (dimnsns)
+https://watch.mistlive.tv/hls/dimnsn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dotwave" tvg-name="Dotwave" tvg-logo="https://cdn.bongo.stream/channel-assets/dotwave/icon.png",Dotwave
+https://toy.vcdn.fyi/tertiary-dotwave/index.m3u8
+
+#EXTINF:-1 tvg-id="magicaltv.iptv.mistlive.tv" tvg-name="MGCL" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/MAGICAL.png" group-title="Mist Live",Magical
+https://watch.mistlive.tv/hls/magicaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mns" tvg-name="MNS" tvg-logo="https://cdn.bongo.stream/channel-assets/mns/icon.png",MNS
+https://toy.vcdn.fyi/mns/index.m3u8
+
+#EXTINF:-1 tvg-id="mrsat" tvg-name="MRSAT HD" tvg-logo="https://cdn.bongo.stream/channel-assets/mrsat/icon.png",MRSAT (480p)
+https://toy.vcdn.fyi/mrsat/index.m3u8
+
+#EXTINF:-1 tvg-id="nestside" tvg-name="NEST SIDE" tvg-logo="https://cdn.bongo.stream/channel-assets/nestside/icon.png",NS
+https://toy.vcdn.fyi/nestside/index.m3u8
+
+#EXTINF:-1 tvg-id="Music.Dummy.us" channel-number="334" tvg-chno="334" tvg-name="Reggaeton Records" tvg-logo="https://iptv.toonix.ink/channelLogos/Custom/Webchannel/ReggaetonRecords.png",Reggaeton Records
+https://toy.vcdn.fyi/tertiary-reggaeton/index.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="ZZHD" tvg-logo="https://api.mistweather.com/api/v1.5/image/9d895fd6-b38f-4f9e-bfdd-675dc845b05d?width=192&height=192&fit=inside" group-title="Mist Live",SCUZZ
+https://watch.mistlive.tv/hls/scuzz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="volt" tvg-name="Volt" tvg-logo="https://cdn.bongo.stream/channel-assets/volt/icon.png",Volt
+https://toy.vcdn.fyi/tertiary-volt/index.m3u8
+
+#EXTINF:-1 tvg-id="vltx" tvg-name="Voltix" tvg-logo="https://cdn.bongo.stream/channel-assets/vltx/icon.png",VOLTEX
+https://toy.vcdn.fyi/voltix/index.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="VRTX" tvg-logo="https://api.mistlive.tv/api/v1.5/image/bcac8f00-9744-4dde-96f1-f51efa2705f9?width=192&height=192&fit=inside" group-title="Mist Live",VORTEX
+https://watch.mistlive.tv/hls/vortex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="UTRA" tvg-logo="https://api.mistweather.com/api/v1.5/image/7e818550-b494-47af-b3d2-1929fbc5c283?width=192&height=192&fit=inside" group-title="Mist Live",ULTRA!
+https://watch.mistlive.tv/hls/ultra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="webspot" tvg-name="WebSpot" tvg-logo="https://cdn.bongo.stream/channel-assets/webspot/icon.png",WEBSPOT
+https://toy.vcdn.fyi/webspot/index.m3u8
+
+#EXTINF:-1 tvg-id="wylp" tvg-name="WYLP" tvg-logo="https://cdn.bongo.stream/channel-assets/wylp/icon.png",WYLP5 YORK
+https://toy.vcdn.fyi/wylp/index.m3u8
+
+
