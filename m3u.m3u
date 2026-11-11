@@ -27,11 +27,8 @@ https://toy.vcdn.fyi/eel_ch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eel" tvg-id="fizz" tvg-name="Fizz" tvg-logo="https://static.wikitide.net/indietvwiki/7/76/Fizz.svg", Fizz
 https://toy.vcdn.fyi/fizz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eel" tvg-id="toon_d" tvg-name="Toon Diggity" tvg-logo="https://static.wikitide.net/indietvwiki/4/4d/TDS.png", Toon Disney Shuffle
+#EXTINF:-1 group-title="Eel" tvg-id="C121.244.ersatztv.org" tvg-name="Cartoon Shuffle" tvg-logo="https://static.wikitide.net/indietvwiki/5/59/Cartoonshuffle.svg", Cartoon Shuffle
 https://toy.vcdn.fyi/tdshuffle/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85", Game Show Network
-https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
 https://toy.vcdn.fyi/deflect/tracks-v1a1/mono.m3u8
