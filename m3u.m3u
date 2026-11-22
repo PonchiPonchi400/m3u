@@ -96,7 +96,7 @@ https://cdn-non-eu.lulzy.eu/vclassic_720/main_stream.m3u8
 #EXTINF:-1 tvg-chno="209" group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_base.png", Vantage Base
 https://cdn-non-eu.lulzy.eu/vbase_720/main_stream.m3u8
 
-#EXTINF:-1 tvg-chno="410" group-title="Pluto TV" tvg-logo="https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/624af40c004f8000079b784d/colorLogoPNG.png?format=webp&trim=true", Sci-Fi
+#EXTINF:-1 tvg-chno="410" group-title="Pluto TV" tvg-logo="https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png?format=webp&trim=true", Sci-Fi
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 
 #EXTINF:-1 tvg-chno="210" group-title="Pluto TV" tvg-logo="https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png?format=webp&trim=true", MTV Biggest Pop
@@ -106,4 +106,4 @@ https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="Pluto TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", Game Show Central
-https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
+https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
