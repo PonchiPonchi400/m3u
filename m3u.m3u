@@ -30,22 +30,19 @@ https://toy.vcdn.fyi/fizz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="502" group-title="Eel" tvg-id="C121.244.ersatztv.org" tvg-name="Cartoon Shuffle" tvg-logo="https://static.wikitide.net/indietvwiki/5/59/Cartoonshuffle.svg", Cartoon Shuffle
 https://toy.vcdn.fyi/tdshuffle/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="106" group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/3/3a/Deflect2wow.png", Deflect
-https://toy.vcdn.fyi/deflect/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="107" group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg", Animax NA
+#EXTINF:-1 tvg-chno="106" group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg", Animax NA
 https://animax.live/hls/1/stream.m3u8?cachebust=f79852
 
 #EXTINF:-1 tvg-chno="503" group-title="Others" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png", CN Extras
 https://toy.vcdn.fyi/tertiary-toonextra/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="108" group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
+#EXTINF:-1 tvg-chno="107" group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png", Dijit
 https://toy.vcdn.fyi/dijit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="504" group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/b/b0/FlashBAKlogoGREENpink.svg", Flashbak
 https://toy.vcdn.fyi/flashBAK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="109" group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
+#EXTINF:-1 tvg-chno="108" group-title="Orbit" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg",Placid
 https://toy.vcdn.fyi/placid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="202" group-title="Totalmusic" tvg-logo="https://www.40mediagroup.com/channels/sm/totalmusic.webp", Totalmusic
