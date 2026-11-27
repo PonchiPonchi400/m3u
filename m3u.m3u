@@ -92,3 +92,6 @@ https://cdn-non-eu.lulzy.eu/vclassic_720/main_stream.m3u8
 
 #EXTINF:-1 tvg-chno="209" group-title="Vantage" tvg-logo="https://vantagetv.eu/vantage_base.png", Vantage Base
 https://cdn-non-eu.lulzy.eu/vbase_720/main_stream.m3u8
+
+#EXTINF:-1 , Vueue Events
+https://toy.vcdn.fyi/vueue-events/index.m3u8
